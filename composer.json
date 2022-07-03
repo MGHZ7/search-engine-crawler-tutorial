@@ -1,0 +1,19 @@
+{
+    "name": "mghz/search-engine",
+    "description": "A training search engine",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mghz\\SearchEngine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Motasem Ghozlan",
+            "email": "motasem.go.26@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "*"
+    }
+}
